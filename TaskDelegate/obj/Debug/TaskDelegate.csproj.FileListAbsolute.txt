@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\TaskDelegate\TaskDelegate\bin\Debug\TaskDelegate.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TaskDelegate\TaskDelegate\bin\Debug\TaskDelegate.exe
+c:\users\user\documents\visual studio 2015\Projects\TaskDelegate\TaskDelegate\bin\Debug\TaskDelegate.pdb
+c:\users\user\documents\visual studio 2015\Projects\TaskDelegate\TaskDelegate\obj\Debug\TaskDelegate.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TaskDelegate\TaskDelegate\obj\Debug\TaskDelegate.exe
+c:\users\user\documents\visual studio 2015\Projects\TaskDelegate\TaskDelegate\obj\Debug\TaskDelegate.pdb
